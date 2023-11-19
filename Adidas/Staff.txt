@@ -1,0 +1,9 @@
+1001,null,ching123,null,M,ching123@gmail.com,manager
+0001,null,joker123,null,M,joker123@gmail.com,clerk
+0002,null,nobody123,null,M,nobody123@gmail.com,clerk
+0003,null,maybe123,null,F,maybe123@gmail.com,clerk
+0004,null,lim123,null,M,lim123@gmail.com,clerk
+0005,null,phook123,null,M,phook123@gmail.com,clerk
+0006,null,tan123,null,m,tan123@gmail.com,clerk
+0007,null,girish123,null,M,girish123@gmail.com,clerk
+0008,null,banana123,null,M,banana123@gmail.com,clerk

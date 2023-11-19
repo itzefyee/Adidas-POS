@@ -1,0 +1,11 @@
+P001,Ultraboost,34,23766.0
+P002,NMD_R2,20,11980.0
+P004,Track Jacket,25,24975.0
+P005,Fleece Hoodie,10,2390.0
+P007,Ultraboost 5.0,15,13035.0
+P009,Supernova,6,2754.0
+P010,Solar Boost,3,2697.0
+P011,Terrex Swift,12,17988.0
+P012,Ultra4D,29,34771.0
+P014,Lmao,30,26970.0
+P015,Superstar,2,2198.0
